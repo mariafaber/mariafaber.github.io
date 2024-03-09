@@ -1,0 +1,17 @@
+.foto-about{
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 10px;
+}
+
+.texto-conteudo{
+    font-size: 20px;
+}
+
+@media  (min-width:799px) {
+    
+    .texto-conteudo{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
